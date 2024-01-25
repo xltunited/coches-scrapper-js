@@ -1,6 +1,7 @@
-// import puppeteer from "puppeteer";
+// To write to file at the end
 import fs from 'fs';
 
+// import puppeteer from "puppeteer";
 import puppeteer from 'puppeteer-extra';
 
 // Add stealth plugin and use defaults (all tricks to hide puppeteer usage)
@@ -45,50 +46,6 @@ const getBrands = async () => {
   // On this new page:
 
   // Set Cookies
-  // const cookies =   [
-  //   {
-  //       "name": "_gcl_au",
-  //       "value": "1.1.1622887756.1706141122",
-  //   },
-  //   {
-  //       "name": "_hjSession_48459",
-  //       "value": "eyJpZCI6IjEyYjRiN2YzLWE3YmUtNDk0MC05YTEwLTBkNmY4ZmI1YzI1ZCIsImMiOjE3MDYxNDM0ODc4OTgsInMiOjAsInIiOjAsInNiIjoxLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0=",
-  //   },
-  //   {
-  //       "name": "_hjSessionUser_48459",
-  //       "value": "eyJpZCI6IjE0MjQ5ZDI4LTgxNWItNTU5Ni05ZWZjLTk2NjQ2NzI2ZDk1NiIsImNyZWF0ZWQiOjE3MDYxNDExMjIzMzYsImV4aXN0aW5nIjp0cnVlfQ==",
-  //   },
-  //   {
-  //       "name": "ajs_anonymous_id",
-  //       "value": "d2590e8f-2798-4b98-96a9-f101773ed0cc",
-  //   },
-  //   {
-  //       "name": "AMCV_05FF6243578784B37F000101%40AdobeOrg",
-  //       "value": "-408604571%7CMCIDTS%7C19748%7CMCMID%7C21231419700539832671974101633690671480%7CMCAAMLH-1706745922%7C6%7CMCAAMB-1706745922%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1706148322s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C4.6.0",
-  //   },
-  //   {
-  //       "name": "borosTcf",
-  //       "value": "eyJwb2xpY3lWZXJzaW9uIjoyLCJjbXBWZXJzaW9uIjoxLCJwdXJwb3NlIjp7ImNvbnNlbnRzIjp7IjEiOnRydWUsIjIiOnRydWUsIjMiOnRydWUsIjQiOnRydWUsIjUiOnRydWUsIjYiOnRydWUsIjciOnRydWUsIjgiOnRydWUsIjkiOnRydWUsIjEwIjp0cnVlfX0sInNwZWNpYWxGZWF0dXJlcyI6eyIxIjp0cnVlfX0=",
-  //   },
-  //   {
-  //       "name": "cto_bundle",
-  //       "value": "3Gl0OV9TMkglMkJrejNCUUhNMFBXUjFkMTY1OGFuZ09FUHhrSFZqbkolMkJOeG5DdU1rZmRtOFBZYTZaJTJCVHZSOW5FT1QlMkJ5S0wyNDAyRDdTckVuYVVNa1FqdTNTdVd4ZnB1TU5WUXV4QTRaMXVZeFkxOTdIdjdKNllXdzclMkIzS0lIY1NSS1g5dWpMJTJCTzBSTDFZcUxacFR6WXBNSlduUmclM0QlM0Q",
-
-  //   },
-  //   {
-  //       "name": "reese84",
-  //       "value": "3:8aoHqkJSOy8XwLZ2t2S/OA==:LYMBUWAcVdLIQuMeSOkZQh6BsLQjUGzN06SkzLcrYDm/ye4p1J00XnzeJqRhJqcRTCr17MJfaYHFLwcHNSUPXAoho9K++9DRNPDYjZ3r8Kr0nKGj3cD1U06aJjilFc7el9xNz2eWy+/mnTcQI+xQoBXQAC3syrZC8oC2jRDLMQFsARa1iRaODzn4lBy1sk3Iz1QZMB0ksrD5XHnTkxKO24yI5W/k449LXyxbIctszYur7ZPdXgxpUTbzRJ6ll8TfpCe8LvwHp+7fUNi37poIdoZFfCVOPIrq/nCeUVUgA2yGqGnllIx1e2CxCiXc7lX9mXuLJPJktBpQkORB+KdVfx8YxGN1JG8EBXymrlTmlupc5j1AT4ogtBreptWSdjwv9dOcf1j9/H1ovKVask3cSnwsYAZZVqRLePaZfVatVEn5+uxVt4qX0YuwMGHGmILQ6akmerqNtLDXP4Qj/d4S6A==:XQYYg9ZeimHwTjQk3p+oFbwISJTM2XqYcXkpIy+1MAg=",
-  //   },
-  //   {
-
-  //       "name": "ajs_anonymous_id",
-  //       "value": "d2590e8f-2798-4b98-96a9-f101773ed0cc",
-  //   },
-  //   {
-  //       "name": "cfg",
-  //       "value": "1",
-  //   }
-  //   ];
 
   const cookies = [
     {
@@ -254,6 +211,10 @@ const getBrands = async () => {
   await page.goto("https://www.coches.net/fichas_tecnicas/", {
     waitUntil: "domcontentloaded",
   });
+
+  await page.waitForSelector("#didomi-notice-agree-button")
+
+  await page.click("#didomi-notice-agree-button");
 
   const brands = await page.evaluate(() => {
   // Fetch the first element with class "quote"
