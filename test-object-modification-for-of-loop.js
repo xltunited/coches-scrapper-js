@@ -4,18 +4,21 @@ import fs from 'fs';
 
 for( let brand of brands) {
 
-    brand.models = [];
+    if(!("models" in brand)){ 
 
-    let step = { asda: "test"};
+        brand.model = 'xd';
 
-    brand.models.push(step);
+    } else {
+
+        console.log(brand.models);
+    }
 
 }
 
 
 let jsonBrands = JSON.stringify(brands);
   
-fs.writeFile('allBrandLinks.json', jsonBrands, 'utf8', function(err) {
+fs.writeFile('allBrandLinks-example.json', jsonBrands, 'utf8', function(err) {
     if (err) throw err;
     console.log('complete');
 });

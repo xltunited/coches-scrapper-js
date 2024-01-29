@@ -1,1 +1,3235 @@
-[{"brandName":"ABARTH","link":"https://www.coches.net/fichas_tecnicas/abarth/"},{"brandName":"AIWAYS","link":"https://www.coches.net/fichas_tecnicas/aiways/"},{"brandName":"ALFA ROMEO","link":"https://www.coches.net/fichas_tecnicas/alfa_romeo/"},{"brandName":"ALPINE","link":"https://www.coches.net/fichas_tecnicas/alpine/"},{"brandName":"AUDI","link":"https://www.coches.net/fichas_tecnicas/audi/"},{"brandName":"BENTLEY","link":"https://www.coches.net/fichas_tecnicas/bentley/"},{"brandName":"BMW","link":"https://www.coches.net/fichas_tecnicas/bmw/"},{"brandName":"BYD","link":"https://www.coches.net/fichas_tecnicas/byd/"},{"brandName":"CENNTRO","link":"https://www.coches.net/fichas_tecnicas/cenntro/"},{"brandName":"CITROEN","link":"https://www.coches.net/fichas_tecnicas/citroen/"},{"brandName":"CUPRA","link":"https://www.coches.net/fichas_tecnicas/cupra/"},{"brandName":"DACIA","link":"https://www.coches.net/fichas_tecnicas/dacia/"},{"brandName":"DFSK","link":"https://www.coches.net/fichas_tecnicas/dfsk/"},{"brandName":"DODGE","link":"https://www.coches.net/fichas_tecnicas/dodge/"},{"brandName":"DR AUTOMOBILES","link":"https://www.coches.net/fichas_tecnicas/dr_automobiles/"},{"brandName":"DS","link":"https://www.coches.net/fichas_tecnicas/ds/"},{"brandName":"EVO","link":"https://www.coches.net/fichas_tecnicas/evo/"},{"brandName":"FIAT","link":"https://www.coches.net/fichas_tecnicas/fiat/"},{"brandName":"FORD","link":"https://www.coches.net/fichas_tecnicas/ford/"},{"brandName":"HONDA","link":"https://www.coches.net/fichas_tecnicas/honda/"},{"brandName":"HYUNDAI","link":"https://www.coches.net/fichas_tecnicas/hyundai/"},{"brandName":"INEOS","link":"https://www.coches.net/fichas_tecnicas/ineos/"},{"brandName":"ISUZU","link":"https://www.coches.net/fichas_tecnicas/isuzu/"},{"brandName":"JAGUAR","link":"https://www.coches.net/fichas_tecnicas/jaguar/"},{"brandName":"JEEP","link":"https://www.coches.net/fichas_tecnicas/jeep/"},{"brandName":"KIA","link":"https://www.coches.net/fichas_tecnicas/kia/"},{"brandName":"LAND-ROVER","link":"https://www.coches.net/fichas_tecnicas/land-rover/"},{"brandName":"LDV","link":"https://www.coches.net/fichas_tecnicas/ldv/"},{"brandName":"LEXUS","link":"https://www.coches.net/fichas_tecnicas/lexus/"},{"brandName":"LOTUS","link":"https://www.coches.net/fichas_tecnicas/lotus/"},{"brandName":"LYNK & CO","link":"https://www.coches.net/fichas_tecnicas/lynk_&_co/"},{"brandName":"MASERATI","link":"https://www.coches.net/fichas_tecnicas/maserati/"},{"brandName":"MAXUS","link":"https://www.coches.net/fichas_tecnicas/maxus/"},{"brandName":"MAZDA","link":"https://www.coches.net/fichas_tecnicas/mazda/"},{"brandName":"MERCEDES-BENZ","link":"https://www.coches.net/fichas_tecnicas/mercedes-benz/"},{"brandName":"MG","link":"https://www.coches.net/fichas_tecnicas/mg/"},{"brandName":"MINI","link":"https://www.coches.net/fichas_tecnicas/mini/"},{"brandName":"MITSUBISHI","link":"https://www.coches.net/fichas_tecnicas/mitsubishi/"},{"brandName":"MW MOTORS","link":"https://www.coches.net/fichas_tecnicas/mw_motors/"},{"brandName":"NEXTEM","link":"https://www.coches.net/fichas_tecnicas/nextem/"},{"brandName":"NISSAN","link":"https://www.coches.net/fichas_tecnicas/nissan/"},{"brandName":"OPEL","link":"https://www.coches.net/fichas_tecnicas/opel/"},{"brandName":"PEUGEOT","link":"https://www.coches.net/fichas_tecnicas/peugeot/"},{"brandName":"POLESTAR","link":"https://www.coches.net/fichas_tecnicas/polestar/"},{"brandName":"PORSCHE","link":"https://www.coches.net/fichas_tecnicas/porsche/"},{"brandName":"RENAULT","link":"https://www.coches.net/fichas_tecnicas/renault/"},{"brandName":"SEAT","link":"https://www.coches.net/fichas_tecnicas/seat/"},{"brandName":"SKODA","link":"https://www.coches.net/fichas_tecnicas/skoda/"},{"brandName":"SMART","link":"https://www.coches.net/fichas_tecnicas/smart/"},{"brandName":"SSANGYONG","link":"https://www.coches.net/fichas_tecnicas/ssangyong/"},{"brandName":"SUBARU","link":"https://www.coches.net/fichas_tecnicas/subaru/"},{"brandName":"SUZUKI","link":"https://www.coches.net/fichas_tecnicas/suzuki/"},{"brandName":"SWM","link":"https://www.coches.net/fichas_tecnicas/swm/"},{"brandName":"TATA","link":"https://www.coches.net/fichas_tecnicas/tata/"},{"brandName":"TESLA","link":"https://www.coches.net/fichas_tecnicas/tesla/"},{"brandName":"TOYOTA","link":"https://www.coches.net/fichas_tecnicas/toyota/"},{"brandName":"VOLKSWAGEN","link":"https://www.coches.net/fichas_tecnicas/volkswagen/"},{"brandName":"VOLVO","link":"https://www.coches.net/fichas_tecnicas/volvo/"},{"brandName":"YUDO","link":"https://www.coches.net/fichas_tecnicas/yudo/"},{"brandName":"ZHIDOU","link":"https://www.coches.net/fichas_tecnicas/zhidou/"},{"brandName":"Buscador de fichas técnicas y modelos descatalogados","link":"https://www.coches.net/fichas_tecnicas/buscador/"}]
+[
+    {
+        "brandName": "ABARTH",
+        "link": "https://www.coches.net/fichas_tecnicas/abarth/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 3 puertas de ABARTH",
+                    "versionName": "500",
+                    "link": "https://www.coches.net/fichas_tecnicas/abarth/500/berlina/3-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Descapotables de 2 puertas de ABARTH",
+                    "versionName": "500",
+                    "link": "https://www.coches.net/fichas_tecnicas/abarth/500/cabrio/2-puertas/"
+                },
+                {
+                    "modelName": "Descapotables de 2 puertas de ABARTH",
+                    "versionName": "500c",
+                    "link": "https://www.coches.net/fichas_tecnicas/abarth/500c/cabrio/2-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "AIWAYS",
+        "link": "https://www.coches.net/fichas_tecnicas/aiways/",
+        "models": [
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de AIWAYS",
+                    "versionName": "U5",
+                    "link": "https://www.coches.net/fichas_tecnicas/aiways/u5/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de AIWAYS",
+                    "versionName": "U6",
+                    "link": "https://www.coches.net/fichas_tecnicas/aiways/u6/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "ALFA ROMEO",
+        "link": "https://www.coches.net/fichas_tecnicas/alfa_romeo/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 4 puertas de ALFA ROMEO",
+                    "versionName": "Giulia",
+                    "link": "https://www.coches.net/fichas_tecnicas/alfa_romeo/giulia/berlina/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de ALFA ROMEO",
+                    "versionName": "Stelvio",
+                    "link": "https://www.coches.net/fichas_tecnicas/alfa_romeo/stelvio/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de ALFA ROMEO",
+                    "versionName": "Tonale",
+                    "link": "https://www.coches.net/fichas_tecnicas/alfa_romeo/tonale/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "ALPINE",
+        "link": "https://www.coches.net/fichas_tecnicas/alpine/",
+        "models": [
+            [
+                {
+                    "modelName": "Coupés de 2 puertas de ALPINE",
+                    "versionName": "A110",
+                    "link": "https://www.coches.net/fichas_tecnicas/alpine/a110/coupe/2-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "AUDI",
+        "link": "https://www.coches.net/fichas_tecnicas/audi/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 4 puertas de AUDI",
+                    "versionName": "A3",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/a3/berlina/4-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 4 puertas de AUDI",
+                    "versionName": "A4",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/a4/berlina/4-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 4 puertas de AUDI",
+                    "versionName": "A6",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/a6/berlina/4-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 4 puertas de AUDI",
+                    "versionName": "A8",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/a8/berlina/4-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 4 puertas de AUDI",
+                    "versionName": "E-tron gt",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/e-tron_gt/berlina/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de AUDI",
+                    "versionName": "A1",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/a1/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de AUDI",
+                    "versionName": "A3",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/a3/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de AUDI",
+                    "versionName": "A5",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/a5/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de AUDI",
+                    "versionName": "A7",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/a7/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos familiares de 5 puertas de AUDI",
+                    "versionName": "A4",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/a4/familiar/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos familiares de 5 puertas de AUDI",
+                    "versionName": "A4 allroad quattro",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/a4_allroad_quattro/familiar/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos familiares de 5 puertas de AUDI",
+                    "versionName": "A6",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/a6/familiar/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos familiares de 5 puertas de AUDI",
+                    "versionName": "A6 allroad quattro",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/a6_allroad_quattro/familiar/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Coupés de 2 puertas de AUDI",
+                    "versionName": "A5",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/a5/coupe/2-puertas/"
+                },
+                {
+                    "modelName": "Coupés de 2 puertas de AUDI",
+                    "versionName": "R8",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/r8/coupe/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Coupés de 3 puertas de AUDI",
+                    "versionName": "Tt",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/tt/coupe/3-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Descapotables de 2 puertas de AUDI",
+                    "versionName": "A5",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/a5/cabrio/2-puertas/"
+                },
+                {
+                    "modelName": "Descapotables de 2 puertas de AUDI",
+                    "versionName": "R8",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/r8/cabrio/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de AUDI",
+                    "versionName": "Q2",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/q2/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de AUDI",
+                    "versionName": "Q3",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/q3/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de AUDI",
+                    "versionName": "Q3 sportback",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/q3_sportback/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de AUDI",
+                    "versionName": "Q4 e-tron",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/q4_e-tron/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de AUDI",
+                    "versionName": "Q4 sportback e-tron",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/q4_sportback_e-tron/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de AUDI",
+                    "versionName": "Q5",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/q5/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de AUDI",
+                    "versionName": "Q5 sportback",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/q5_sportback/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de AUDI",
+                    "versionName": "Q7",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/q7/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de AUDI",
+                    "versionName": "Q8",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/q8/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de AUDI",
+                    "versionName": "Q8 e-tron",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/q8_e-tron/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de AUDI",
+                    "versionName": "Q8 sportback e-tron",
+                    "link": "https://www.coches.net/fichas_tecnicas/audi/q8_sportback_e-tron/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "BENTLEY",
+        "link": "https://www.coches.net/fichas_tecnicas/bentley/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 4 puertas de BENTLEY",
+                    "versionName": "Flying spur",
+                    "link": "https://www.coches.net/fichas_tecnicas/bentley/flying_spur/berlina/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Coupés de 2 puertas de BENTLEY",
+                    "versionName": "Continental gt",
+                    "link": "https://www.coches.net/fichas_tecnicas/bentley/continental_gt/coupe/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Descapotables de 2 puertas de BENTLEY",
+                    "versionName": "Continental gt",
+                    "link": "https://www.coches.net/fichas_tecnicas/bentley/continental_gt/cabrio/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de BENTLEY",
+                    "versionName": "Bentayga",
+                    "link": "https://www.coches.net/fichas_tecnicas/bentley/bentayga/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "BMW",
+        "link": "https://www.coches.net/fichas_tecnicas/bmw/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 4 puertas de BMW",
+                    "versionName": "I5",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/i5/berlina/4-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 4 puertas de BMW",
+                    "versionName": "I7",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/i7/berlina/4-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 4 puertas de BMW",
+                    "versionName": "Serie 2",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/serie_2/berlina/4-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 4 puertas de BMW",
+                    "versionName": "Serie 3",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/serie_3/berlina/4-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 4 puertas de BMW",
+                    "versionName": "Serie 5",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/serie_5/berlina/4-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 4 puertas de BMW",
+                    "versionName": "Serie 7",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/serie_7/berlina/4-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 4 puertas de BMW",
+                    "versionName": "Serie 8",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/serie_8/berlina/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de BMW",
+                    "versionName": "I4",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/i4/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de BMW",
+                    "versionName": "Serie 1",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/serie_1/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de BMW",
+                    "versionName": "Serie 4",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/serie_4/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de BMW",
+                    "versionName": "Serie 6",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/serie_6/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos familiares de 5 puertas de BMW",
+                    "versionName": "Serie 3",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/serie_3/familiar/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos familiares de 5 puertas de BMW",
+                    "versionName": "Serie 5",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/serie_5/familiar/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Monovolumenes de 5 puertas de BMW",
+                    "versionName": "Serie 2 active tourer",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/serie_2_active_tourer/monovolumen/5-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 5 puertas de BMW",
+                    "versionName": "Serie 2 gran tourer",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/serie_2_gran_tourer/monovolumen/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Coupés de 2 puertas de BMW",
+                    "versionName": "Serie 2",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/serie_2/coupe/2-puertas/"
+                },
+                {
+                    "modelName": "Coupés de 2 puertas de BMW",
+                    "versionName": "Serie 4",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/serie_4/coupe/2-puertas/"
+                },
+                {
+                    "modelName": "Coupés de 2 puertas de BMW",
+                    "versionName": "Serie 8",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/serie_8/coupe/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Descapotables de 2 puertas de BMW",
+                    "versionName": "Serie 4",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/serie_4/cabrio/2-puertas/"
+                },
+                {
+                    "modelName": "Descapotables de 2 puertas de BMW",
+                    "versionName": "Serie 8",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/serie_8/cabrio/2-puertas/"
+                },
+                {
+                    "modelName": "Descapotables de 2 puertas de BMW",
+                    "versionName": "Z4",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/z4/cabrio/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de BMW",
+                    "versionName": "Ix",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/ix/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de BMW",
+                    "versionName": "Ix1",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/ix1/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de BMW",
+                    "versionName": "Ix2",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/ix2/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de BMW",
+                    "versionName": "Ix3",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/ix3/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de BMW",
+                    "versionName": "X1",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/x1/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de BMW",
+                    "versionName": "X2",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/x2/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de BMW",
+                    "versionName": "X3",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/x3/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de BMW",
+                    "versionName": "X4",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/x4/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de BMW",
+                    "versionName": "X5",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/x5/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de BMW",
+                    "versionName": "X6",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/x6/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de BMW",
+                    "versionName": "X7",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/x7/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de BMW",
+                    "versionName": "Xm",
+                    "link": "https://www.coches.net/fichas_tecnicas/bmw/xm/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "BYD",
+        "link": "https://www.coches.net/fichas_tecnicas/byd/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 4 puertas de BYD",
+                    "versionName": "Han",
+                    "link": "https://www.coches.net/fichas_tecnicas/byd/han/berlina/4-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 4 puertas de BYD",
+                    "versionName": "Seal",
+                    "link": "https://www.coches.net/fichas_tecnicas/byd/seal/berlina/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de BYD",
+                    "versionName": "Dolphin",
+                    "link": "https://www.coches.net/fichas_tecnicas/byd/dolphin/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de BYD",
+                    "versionName": "Atto 3",
+                    "link": "https://www.coches.net/fichas_tecnicas/byd/atto_3/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de BYD",
+                    "versionName": "Tang",
+                    "link": "https://www.coches.net/fichas_tecnicas/byd/tang/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "CENNTRO",
+        "link": "https://www.coches.net/fichas_tecnicas/cenntro/",
+        "models": [
+            [
+                {
+                    "modelName": "Pick Up de 5 puertas de CENNTRO",
+                    "versionName": "Logistar 200",
+                    "link": "https://www.coches.net/fichas_tecnicas/cenntro/logistar_200/pick_up/5-puertas/"
+                },
+                {
+                    "modelName": "Pick Up de 5 puertas de CENNTRO",
+                    "versionName": "Metro",
+                    "link": "https://www.coches.net/fichas_tecnicas/cenntro/metro/pick_up/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "CITROEN",
+        "link": "https://www.coches.net/fichas_tecnicas/citroen/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 2 puertas de CITROEN",
+                    "versionName": "Ami",
+                    "link": "https://www.coches.net/fichas_tecnicas/citroen/ami/berlina/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos de 4 puertas de CITROEN",
+                    "versionName": "C4 x",
+                    "link": "https://www.coches.net/fichas_tecnicas/citroen/c4_x/berlina/4-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 4 puertas de CITROEN",
+                    "versionName": "Ëc4 x",
+                    "link": "https://www.coches.net/fichas_tecnicas/citroen/ec4_x/berlina/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de CITROEN",
+                    "versionName": "C3",
+                    "link": "https://www.coches.net/fichas_tecnicas/citroen/c3/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de CITROEN",
+                    "versionName": "C4",
+                    "link": "https://www.coches.net/fichas_tecnicas/citroen/c4/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de CITROEN",
+                    "versionName": "C4 cactus",
+                    "link": "https://www.coches.net/fichas_tecnicas/citroen/c4_cactus/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de CITROEN",
+                    "versionName": "C5 x",
+                    "link": "https://www.coches.net/fichas_tecnicas/citroen/c5_x/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de CITROEN",
+                    "versionName": "Ë-c4",
+                    "link": "https://www.coches.net/fichas_tecnicas/citroen/e-c4/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Monovolumenes de 4 puertas de CITROEN",
+                    "versionName": "Berlingo",
+                    "link": "https://www.coches.net/fichas_tecnicas/citroen/berlingo/monovolumen/4-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 4 puertas de CITROEN",
+                    "versionName": "Ë-berlingo",
+                    "link": "https://www.coches.net/fichas_tecnicas/citroen/e-berlingo/monovolumen/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Monovolumenes de 5 puertas de CITROEN",
+                    "versionName": "Berlingo",
+                    "link": "https://www.coches.net/fichas_tecnicas/citroen/berlingo/monovolumen/5-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 5 puertas de CITROEN",
+                    "versionName": "Ë-berlingo",
+                    "link": "https://www.coches.net/fichas_tecnicas/citroen/e-berlingo/monovolumen/5-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 5 puertas de CITROEN",
+                    "versionName": "Ë-spacetourer",
+                    "link": "https://www.coches.net/fichas_tecnicas/citroen/e-spacetourer/monovolumen/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de CITROEN",
+                    "versionName": "C3 aircross",
+                    "link": "https://www.coches.net/fichas_tecnicas/citroen/c3_aircross/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de CITROEN",
+                    "versionName": "C5 aircross",
+                    "link": "https://www.coches.net/fichas_tecnicas/citroen/c5_aircross/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de CITROEN",
+                    "versionName": "C5 aircross hybrid",
+                    "link": "https://www.coches.net/fichas_tecnicas/citroen/c5_aircross_hybrid/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "CUPRA",
+        "link": "https://www.coches.net/fichas_tecnicas/cupra/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de CUPRA",
+                    "versionName": "Born",
+                    "link": "https://www.coches.net/fichas_tecnicas/cupra/born/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de CUPRA",
+                    "versionName": "León",
+                    "link": "https://www.coches.net/fichas_tecnicas/cupra/leon/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos familiares de 5 puertas de CUPRA",
+                    "versionName": "León",
+                    "link": "https://www.coches.net/fichas_tecnicas/cupra/leon/familiar/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de CUPRA",
+                    "versionName": "Ateca",
+                    "link": "https://www.coches.net/fichas_tecnicas/cupra/ateca/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de CUPRA",
+                    "versionName": "Formentor",
+                    "link": "https://www.coches.net/fichas_tecnicas/cupra/formentor/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "DACIA",
+        "link": "https://www.coches.net/fichas_tecnicas/dacia/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 4 puertas de DACIA",
+                    "versionName": "Logan",
+                    "link": "https://www.coches.net/fichas_tecnicas/dacia/logan/berlina/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de DACIA",
+                    "versionName": "Sandero",
+                    "link": "https://www.coches.net/fichas_tecnicas/dacia/sandero/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de DACIA",
+                    "versionName": "Spring",
+                    "link": "https://www.coches.net/fichas_tecnicas/dacia/spring/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos familiares de 5 puertas de DACIA",
+                    "versionName": "Jogger",
+                    "link": "https://www.coches.net/fichas_tecnicas/dacia/jogger/familiar/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de DACIA",
+                    "versionName": "Duster",
+                    "link": "https://www.coches.net/fichas_tecnicas/dacia/duster/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "DFSK",
+        "link": "https://www.coches.net/fichas_tecnicas/dfsk/",
+        "models": [
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de DFSK",
+                    "versionName": "500",
+                    "link": "https://www.coches.net/fichas_tecnicas/dfsk/500/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de DFSK",
+                    "versionName": "580",
+                    "link": "https://www.coches.net/fichas_tecnicas/dfsk/580/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de DFSK",
+                    "versionName": "Fengon 5",
+                    "link": "https://www.coches.net/fichas_tecnicas/dfsk/fengon_5/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de DFSK",
+                    "versionName": "Seres 3",
+                    "link": "https://www.coches.net/fichas_tecnicas/dfsk/seres_3/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "DODGE",
+        "link": "https://www.coches.net/fichas_tecnicas/dodge/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 4 puertas de DODGE",
+                    "versionName": "Charger",
+                    "link": "https://www.coches.net/fichas_tecnicas/dodge/charger/berlina/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Coupés de 2 puertas de DODGE",
+                    "versionName": "Challenger",
+                    "link": "https://www.coches.net/fichas_tecnicas/dodge/challenger/coupe/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de DODGE",
+                    "versionName": "Durango",
+                    "link": "https://www.coches.net/fichas_tecnicas/dodge/durango/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "DR AUTOMOBILES",
+        "link": "https://www.coches.net/fichas_tecnicas/dr_automobiles/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 3 puertas de DR AUTOMOBILES",
+                    "versionName": "Dr 1.0 ev",
+                    "link": "https://www.coches.net/fichas_tecnicas/dr_automobiles/dr_10_ev/berlina/3-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de DR AUTOMOBILES",
+                    "versionName": "Dr 3.0",
+                    "link": "https://www.coches.net/fichas_tecnicas/dr_automobiles/dr_30/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de DR AUTOMOBILES",
+                    "versionName": "Dr 4.0",
+                    "link": "https://www.coches.net/fichas_tecnicas/dr_automobiles/dr_40/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de DR AUTOMOBILES",
+                    "versionName": "Dr 5.0",
+                    "link": "https://www.coches.net/fichas_tecnicas/dr_automobiles/dr_50/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de DR AUTOMOBILES",
+                    "versionName": "Dr 6.0",
+                    "link": "https://www.coches.net/fichas_tecnicas/dr_automobiles/dr_60/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de DR AUTOMOBILES",
+                    "versionName": "Dr 7.0",
+                    "link": "https://www.coches.net/fichas_tecnicas/dr_automobiles/dr_70/4x4/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Pick Up de 4 puertas de DR AUTOMOBILES",
+                    "versionName": "Pk8",
+                    "link": "https://www.coches.net/fichas_tecnicas/dr_automobiles/pk8/pick_up/4-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "DS",
+        "link": "https://www.coches.net/fichas_tecnicas/ds/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 4 puertas de DS",
+                    "versionName": "Ds 9",
+                    "link": "https://www.coches.net/fichas_tecnicas/ds/ds_9/berlina/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de DS",
+                    "versionName": "Ds 4",
+                    "link": "https://www.coches.net/fichas_tecnicas/ds/ds_4/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de DS",
+                    "versionName": "Ds 3",
+                    "link": "https://www.coches.net/fichas_tecnicas/ds/ds_3/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de DS",
+                    "versionName": "Ds 7",
+                    "link": "https://www.coches.net/fichas_tecnicas/ds/ds_7/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "EVO",
+        "link": "https://www.coches.net/fichas_tecnicas/evo/",
+        "models": [
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de EVO",
+                    "versionName": "Evo 3",
+                    "link": "https://www.coches.net/fichas_tecnicas/evo/evo_3/4x4/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Pick Up de 4 puertas de EVO",
+                    "versionName": "Cross 4",
+                    "link": "https://www.coches.net/fichas_tecnicas/evo/cross_4/pick_up/4-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "FIAT",
+        "link": "https://www.coches.net/fichas_tecnicas/fiat/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 3 puertas de FIAT",
+                    "versionName": "500",
+                    "link": "https://www.coches.net/fichas_tecnicas/fiat/500/berlina/3-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 3 puertas de FIAT",
+                    "versionName": "Punto",
+                    "link": "https://www.coches.net/fichas_tecnicas/fiat/punto/berlina/3-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos de 4 puertas de FIAT",
+                    "versionName": "500",
+                    "link": "https://www.coches.net/fichas_tecnicas/fiat/500/berlina/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de FIAT",
+                    "versionName": "Panda",
+                    "link": "https://www.coches.net/fichas_tecnicas/fiat/panda/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de FIAT",
+                    "versionName": "Punto",
+                    "link": "https://www.coches.net/fichas_tecnicas/fiat/punto/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de FIAT",
+                    "versionName": "Tipo",
+                    "link": "https://www.coches.net/fichas_tecnicas/fiat/tipo/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos familiares de 5 puertas de FIAT",
+                    "versionName": "Tipo",
+                    "link": "https://www.coches.net/fichas_tecnicas/fiat/tipo/familiar/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Descapotables de 2 puertas de FIAT",
+                    "versionName": "500c",
+                    "link": "https://www.coches.net/fichas_tecnicas/fiat/500c/cabrio/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de FIAT",
+                    "versionName": "500x",
+                    "link": "https://www.coches.net/fichas_tecnicas/fiat/500x/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de FIAT",
+                    "versionName": "600",
+                    "link": "https://www.coches.net/fichas_tecnicas/fiat/600/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "FORD",
+        "link": "https://www.coches.net/fichas_tecnicas/ford/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 3 puertas de FORD",
+                    "versionName": "Fiesta",
+                    "link": "https://www.coches.net/fichas_tecnicas/ford/fiesta/berlina/3-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos de 4 puertas de FORD",
+                    "versionName": "Mondeo",
+                    "link": "https://www.coches.net/fichas_tecnicas/ford/mondeo/berlina/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de FORD",
+                    "versionName": "Fiesta",
+                    "link": "https://www.coches.net/fichas_tecnicas/ford/fiesta/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de FORD",
+                    "versionName": "Focus",
+                    "link": "https://www.coches.net/fichas_tecnicas/ford/focus/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos familiares de 5 puertas de FORD",
+                    "versionName": "Focus",
+                    "link": "https://www.coches.net/fichas_tecnicas/ford/focus/familiar/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Monovolumenes de 4 puertas de FORD",
+                    "versionName": "Grand tourneo connect",
+                    "link": "https://www.coches.net/fichas_tecnicas/ford/grand_tourneo_connect/monovolumen/4-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 4 puertas de FORD",
+                    "versionName": "Tourneo connect",
+                    "link": "https://www.coches.net/fichas_tecnicas/ford/tourneo_connect/monovolumen/4-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 4 puertas de FORD",
+                    "versionName": "Tourneo custom",
+                    "link": "https://www.coches.net/fichas_tecnicas/ford/tourneo_custom/monovolumen/4-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 4 puertas de FORD",
+                    "versionName": "Transit custom",
+                    "link": "https://www.coches.net/fichas_tecnicas/ford/transit_custom/monovolumen/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Monovolumenes de 5 puertas de FORD",
+                    "versionName": "Grand tourneo connect",
+                    "link": "https://www.coches.net/fichas_tecnicas/ford/grand_tourneo_connect/monovolumen/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Coupés de 2 puertas de FORD",
+                    "versionName": "Mustang",
+                    "link": "https://www.coches.net/fichas_tecnicas/ford/mustang/coupe/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Descapotables de 2 puertas de FORD",
+                    "versionName": "Mustang",
+                    "link": "https://www.coches.net/fichas_tecnicas/ford/mustang/cabrio/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de FORD",
+                    "versionName": "Bronco",
+                    "link": "https://www.coches.net/fichas_tecnicas/ford/bronco/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de FORD",
+                    "versionName": "Ecosport",
+                    "link": "https://www.coches.net/fichas_tecnicas/ford/ecosport/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de FORD",
+                    "versionName": "Explorer",
+                    "link": "https://www.coches.net/fichas_tecnicas/ford/explorer/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de FORD",
+                    "versionName": "Kuga",
+                    "link": "https://www.coches.net/fichas_tecnicas/ford/kuga/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de FORD",
+                    "versionName": "Mustang mach-e",
+                    "link": "https://www.coches.net/fichas_tecnicas/ford/mustang_mach-e/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de FORD",
+                    "versionName": "Puma",
+                    "link": "https://www.coches.net/fichas_tecnicas/ford/puma/4x4/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Pick Up de 2 puertas de FORD",
+                    "versionName": "Ranger",
+                    "link": "https://www.coches.net/fichas_tecnicas/ford/ranger/pick_up/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Pick Up de 4 puertas de FORD",
+                    "versionName": "Ranger",
+                    "link": "https://www.coches.net/fichas_tecnicas/ford/ranger/pick_up/4-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "HONDA",
+        "link": "https://www.coches.net/fichas_tecnicas/honda/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de HONDA",
+                    "versionName": "Civic",
+                    "link": "https://www.coches.net/fichas_tecnicas/honda/civic/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de HONDA",
+                    "versionName": "Honda e",
+                    "link": "https://www.coches.net/fichas_tecnicas/honda/honda_e/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de HONDA",
+                    "versionName": "Jazz",
+                    "link": "https://www.coches.net/fichas_tecnicas/honda/jazz/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de HONDA",
+                    "versionName": "Cr-v",
+                    "link": "https://www.coches.net/fichas_tecnicas/honda/cr-v/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de HONDA",
+                    "versionName": "E:ny1",
+                    "link": "https://www.coches.net/fichas_tecnicas/honda/eny1/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de HONDA",
+                    "versionName": "Hr-v",
+                    "link": "https://www.coches.net/fichas_tecnicas/honda/hr-v/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de HONDA",
+                    "versionName": "Zr-v",
+                    "link": "https://www.coches.net/fichas_tecnicas/honda/zr-v/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "HYUNDAI",
+        "link": "https://www.coches.net/fichas_tecnicas/hyundai/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 4 puertas de HYUNDAI",
+                    "versionName": "Ioniq 6",
+                    "link": "https://www.coches.net/fichas_tecnicas/hyundai/ioniq_6/berlina/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de HYUNDAI",
+                    "versionName": "I10",
+                    "link": "https://www.coches.net/fichas_tecnicas/hyundai/i10/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de HYUNDAI",
+                    "versionName": "I20",
+                    "link": "https://www.coches.net/fichas_tecnicas/hyundai/i20/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de HYUNDAI",
+                    "versionName": "I30",
+                    "link": "https://www.coches.net/fichas_tecnicas/hyundai/i30/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos familiares de 5 puertas de HYUNDAI",
+                    "versionName": "I30",
+                    "link": "https://www.coches.net/fichas_tecnicas/hyundai/i30/familiar/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Monovolumenes de 5 puertas de HYUNDAI",
+                    "versionName": "Ix20",
+                    "link": "https://www.coches.net/fichas_tecnicas/hyundai/ix20/monovolumen/5-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 5 puertas de HYUNDAI",
+                    "versionName": "Staria",
+                    "link": "https://www.coches.net/fichas_tecnicas/hyundai/staria/monovolumen/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de HYUNDAI",
+                    "versionName": "Bayon",
+                    "link": "https://www.coches.net/fichas_tecnicas/hyundai/bayon/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de HYUNDAI",
+                    "versionName": "Ioniq 5",
+                    "link": "https://www.coches.net/fichas_tecnicas/hyundai/ioniq_5/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de HYUNDAI",
+                    "versionName": "Kona",
+                    "link": "https://www.coches.net/fichas_tecnicas/hyundai/kona/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de HYUNDAI",
+                    "versionName": "Nexo",
+                    "link": "https://www.coches.net/fichas_tecnicas/hyundai/nexo/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de HYUNDAI",
+                    "versionName": "Santa fe",
+                    "link": "https://www.coches.net/fichas_tecnicas/hyundai/santa_fe/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de HYUNDAI",
+                    "versionName": "Tucson",
+                    "link": "https://www.coches.net/fichas_tecnicas/hyundai/tucson/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "INEOS",
+        "link": "https://www.coches.net/fichas_tecnicas/ineos/",
+        "models": [
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de INEOS",
+                    "versionName": "Grenadier",
+                    "link": "https://www.coches.net/fichas_tecnicas/ineos/grenadier/4x4/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Pick Up de 4 puertas de INEOS",
+                    "versionName": "Grenadier",
+                    "link": "https://www.coches.net/fichas_tecnicas/ineos/grenadier/pick_up/4-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "ISUZU",
+        "link": "https://www.coches.net/fichas_tecnicas/isuzu/",
+        "models": [
+            [
+                {
+                    "modelName": "Pick Up de 2 puertas de ISUZU",
+                    "versionName": "D-max",
+                    "link": "https://www.coches.net/fichas_tecnicas/isuzu/d-max/pick_up/2-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "JAGUAR",
+        "link": "https://www.coches.net/fichas_tecnicas/jaguar/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 4 puertas de JAGUAR",
+                    "versionName": "Xe",
+                    "link": "https://www.coches.net/fichas_tecnicas/jaguar/xe/berlina/4-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 4 puertas de JAGUAR",
+                    "versionName": "Xf",
+                    "link": "https://www.coches.net/fichas_tecnicas/jaguar/xf/berlina/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos familiares de 5 puertas de JAGUAR",
+                    "versionName": "Xf",
+                    "link": "https://www.coches.net/fichas_tecnicas/jaguar/xf/familiar/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Coupés de 3 puertas de JAGUAR",
+                    "versionName": "F-type",
+                    "link": "https://www.coches.net/fichas_tecnicas/jaguar/f-type/coupe/3-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Descapotables de 2 puertas de JAGUAR",
+                    "versionName": "F-type",
+                    "link": "https://www.coches.net/fichas_tecnicas/jaguar/f-type/cabrio/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de JAGUAR",
+                    "versionName": "E-pace",
+                    "link": "https://www.coches.net/fichas_tecnicas/jaguar/e-pace/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de JAGUAR",
+                    "versionName": "F-pace",
+                    "link": "https://www.coches.net/fichas_tecnicas/jaguar/f-pace/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de JAGUAR",
+                    "versionName": "I-pace",
+                    "link": "https://www.coches.net/fichas_tecnicas/jaguar/i-pace/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "JEEP",
+        "link": "https://www.coches.net/fichas_tecnicas/jeep/",
+        "models": [
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de JEEP",
+                    "versionName": "Avenger",
+                    "link": "https://www.coches.net/fichas_tecnicas/jeep/avenger/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de JEEP",
+                    "versionName": "Cherokee",
+                    "link": "https://www.coches.net/fichas_tecnicas/jeep/cherokee/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de JEEP",
+                    "versionName": "Compass",
+                    "link": "https://www.coches.net/fichas_tecnicas/jeep/compass/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de JEEP",
+                    "versionName": "Grand cherokee",
+                    "link": "https://www.coches.net/fichas_tecnicas/jeep/grand_cherokee/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de JEEP",
+                    "versionName": "Renegade",
+                    "link": "https://www.coches.net/fichas_tecnicas/jeep/renegade/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de JEEP",
+                    "versionName": "Wrangler",
+                    "link": "https://www.coches.net/fichas_tecnicas/jeep/wrangler/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "KIA",
+        "link": "https://www.coches.net/fichas_tecnicas/kia/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de KIA",
+                    "versionName": "Cee'd",
+                    "link": "https://www.coches.net/fichas_tecnicas/kia/ceed/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de KIA",
+                    "versionName": "E-niro",
+                    "link": "https://www.coches.net/fichas_tecnicas/kia/e-niro/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de KIA",
+                    "versionName": "E-soul",
+                    "link": "https://www.coches.net/fichas_tecnicas/kia/e-soul/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de KIA",
+                    "versionName": "Niro",
+                    "link": "https://www.coches.net/fichas_tecnicas/kia/niro/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de KIA",
+                    "versionName": "Picanto",
+                    "link": "https://www.coches.net/fichas_tecnicas/kia/picanto/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos familiares de 5 puertas de KIA",
+                    "versionName": "Ceed tourer",
+                    "link": "https://www.coches.net/fichas_tecnicas/kia/ceed_tourer/familiar/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos familiares de 5 puertas de KIA",
+                    "versionName": "Proceed",
+                    "link": "https://www.coches.net/fichas_tecnicas/kia/proceed/familiar/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de KIA",
+                    "versionName": "Ev6",
+                    "link": "https://www.coches.net/fichas_tecnicas/kia/ev6/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de KIA",
+                    "versionName": "Ev9",
+                    "link": "https://www.coches.net/fichas_tecnicas/kia/ev9/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de KIA",
+                    "versionName": "Sorento",
+                    "link": "https://www.coches.net/fichas_tecnicas/kia/sorento/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de KIA",
+                    "versionName": "Sportage",
+                    "link": "https://www.coches.net/fichas_tecnicas/kia/sportage/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de KIA",
+                    "versionName": "Stonic",
+                    "link": "https://www.coches.net/fichas_tecnicas/kia/stonic/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de KIA",
+                    "versionName": "Xceed",
+                    "link": "https://www.coches.net/fichas_tecnicas/kia/xceed/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "LAND-ROVER",
+        "link": "https://www.coches.net/fichas_tecnicas/land-rover/",
+        "models": [
+            [
+                {
+                    "modelName": "4x4 de 3 puertas de LAND-ROVER",
+                    "versionName": "Defender",
+                    "link": "https://www.coches.net/fichas_tecnicas/land-rover/defender/4x4/3-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de LAND-ROVER",
+                    "versionName": "Defender",
+                    "link": "https://www.coches.net/fichas_tecnicas/land-rover/defender/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de LAND-ROVER",
+                    "versionName": "Discovery",
+                    "link": "https://www.coches.net/fichas_tecnicas/land-rover/discovery/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de LAND-ROVER",
+                    "versionName": "Discovery sport",
+                    "link": "https://www.coches.net/fichas_tecnicas/land-rover/discovery_sport/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de LAND-ROVER",
+                    "versionName": "Range rover",
+                    "link": "https://www.coches.net/fichas_tecnicas/land-rover/range_rover/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de LAND-ROVER",
+                    "versionName": "Range rover evoque",
+                    "link": "https://www.coches.net/fichas_tecnicas/land-rover/range_rover_evoque/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de LAND-ROVER",
+                    "versionName": "Range rover sport",
+                    "link": "https://www.coches.net/fichas_tecnicas/land-rover/range_rover_sport/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de LAND-ROVER",
+                    "versionName": "Range rover velar",
+                    "link": "https://www.coches.net/fichas_tecnicas/land-rover/range_rover_velar/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "LDV",
+        "link": "https://www.coches.net/fichas_tecnicas/ldv/",
+        "models": [
+            [
+                {
+                    "modelName": "Pick Up de 2 puertas de LDV",
+                    "versionName": "Maxus",
+                    "link": "https://www.coches.net/fichas_tecnicas/ldv/maxus/pick_up/2-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "LEXUS",
+        "link": "https://www.coches.net/fichas_tecnicas/lexus/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 4 puertas de LEXUS",
+                    "versionName": "Es",
+                    "link": "https://www.coches.net/fichas_tecnicas/lexus/es/berlina/4-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 4 puertas de LEXUS",
+                    "versionName": "Ls",
+                    "link": "https://www.coches.net/fichas_tecnicas/lexus/ls/berlina/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Monovolumenes de 5 puertas de LEXUS",
+                    "versionName": "Lm",
+                    "link": "https://www.coches.net/fichas_tecnicas/lexus/lm/monovolumen/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Coupés de 2 puertas de LEXUS",
+                    "versionName": "Lc",
+                    "link": "https://www.coches.net/fichas_tecnicas/lexus/lc/coupe/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Descapotables de 2 puertas de LEXUS",
+                    "versionName": "Lc",
+                    "link": "https://www.coches.net/fichas_tecnicas/lexus/lc/cabrio/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de LEXUS",
+                    "versionName": "Lbx",
+                    "link": "https://www.coches.net/fichas_tecnicas/lexus/lbx/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de LEXUS",
+                    "versionName": "Nx",
+                    "link": "https://www.coches.net/fichas_tecnicas/lexus/nx/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de LEXUS",
+                    "versionName": "Rz",
+                    "link": "https://www.coches.net/fichas_tecnicas/lexus/rz/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de LEXUS",
+                    "versionName": "Ux",
+                    "link": "https://www.coches.net/fichas_tecnicas/lexus/ux/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "LOTUS",
+        "link": "https://www.coches.net/fichas_tecnicas/lotus/",
+        "models": [
+            [
+                {
+                    "modelName": "Coupés de 2 puertas de LOTUS",
+                    "versionName": "Emira",
+                    "link": "https://www.coches.net/fichas_tecnicas/lotus/emira/coupe/2-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "LYNK & CO",
+        "link": "https://www.coches.net/fichas_tecnicas/lynk_&_co/",
+        "models": [
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de LYNK & CO",
+                    "versionName": "01",
+                    "link": "https://www.coches.net/fichas_tecnicas/lynk_&_co/01/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "MASERATI",
+        "link": "https://www.coches.net/fichas_tecnicas/maserati/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 4 puertas de MASERATI",
+                    "versionName": "Ghibli",
+                    "link": "https://www.coches.net/fichas_tecnicas/maserati/ghibli/berlina/4-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 4 puertas de MASERATI",
+                    "versionName": "Quattroporte",
+                    "link": "https://www.coches.net/fichas_tecnicas/maserati/quattroporte/berlina/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Coupés de 2 puertas de MASERATI",
+                    "versionName": "Granturismo",
+                    "link": "https://www.coches.net/fichas_tecnicas/maserati/granturismo/coupe/2-puertas/"
+                },
+                {
+                    "modelName": "Coupés de 2 puertas de MASERATI",
+                    "versionName": "Mc20",
+                    "link": "https://www.coches.net/fichas_tecnicas/maserati/mc20/coupe/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Descapotables de 2 puertas de MASERATI",
+                    "versionName": "Mc20",
+                    "link": "https://www.coches.net/fichas_tecnicas/maserati/mc20/cabrio/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de MASERATI",
+                    "versionName": "Grecale",
+                    "link": "https://www.coches.net/fichas_tecnicas/maserati/grecale/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de MASERATI",
+                    "versionName": "Levante",
+                    "link": "https://www.coches.net/fichas_tecnicas/maserati/levante/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "MAXUS",
+        "link": "https://www.coches.net/fichas_tecnicas/maxus/",
+        "models": [
+            [
+                {
+                    "modelName": "Monovolumenes de 5 puertas de MAXUS",
+                    "versionName": "Euniq 5",
+                    "link": "https://www.coches.net/fichas_tecnicas/maxus/euniq_5/monovolumen/5-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 5 puertas de MAXUS",
+                    "versionName": "Mifa 9",
+                    "link": "https://www.coches.net/fichas_tecnicas/maxus/mifa_9/monovolumen/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Pick Up de 4 puertas de MAXUS",
+                    "versionName": "T90",
+                    "link": "https://www.coches.net/fichas_tecnicas/maxus/t90/pick_up/4-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "MAZDA",
+        "link": "https://www.coches.net/fichas_tecnicas/mazda/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 4 puertas de MAZDA",
+                    "versionName": "Mazda3",
+                    "link": "https://www.coches.net/fichas_tecnicas/mazda/mazda3/berlina/4-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 4 puertas de MAZDA",
+                    "versionName": "Mazda6",
+                    "link": "https://www.coches.net/fichas_tecnicas/mazda/mazda6/berlina/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de MAZDA",
+                    "versionName": "Mazda2",
+                    "link": "https://www.coches.net/fichas_tecnicas/mazda/mazda2/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de MAZDA",
+                    "versionName": "Mazda3",
+                    "link": "https://www.coches.net/fichas_tecnicas/mazda/mazda3/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos familiares de 5 puertas de MAZDA",
+                    "versionName": "Mazda6",
+                    "link": "https://www.coches.net/fichas_tecnicas/mazda/mazda6/familiar/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Coupés de 2 puertas de MAZDA",
+                    "versionName": "Mx-5",
+                    "link": "https://www.coches.net/fichas_tecnicas/mazda/mx-5/coupe/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Descapotables de 2 puertas de MAZDA",
+                    "versionName": "Mx-5",
+                    "link": "https://www.coches.net/fichas_tecnicas/mazda/mx-5/cabrio/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de MAZDA",
+                    "versionName": "Cx-30",
+                    "link": "https://www.coches.net/fichas_tecnicas/mazda/cx-30/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de MAZDA",
+                    "versionName": "Cx-5",
+                    "link": "https://www.coches.net/fichas_tecnicas/mazda/cx-5/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de MAZDA",
+                    "versionName": "Cx-60",
+                    "link": "https://www.coches.net/fichas_tecnicas/mazda/cx-60/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de MAZDA",
+                    "versionName": "Mx-30",
+                    "link": "https://www.coches.net/fichas_tecnicas/mazda/mx-30/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "MERCEDES-BENZ",
+        "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 4 puertas de MERCEDES-BENZ",
+                    "versionName": "Cla",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/cla/berlina/4-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 4 puertas de MERCEDES-BENZ",
+                    "versionName": "Clase a",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/clase_a/berlina/4-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 4 puertas de MERCEDES-BENZ",
+                    "versionName": "Clase c",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/clase_c/berlina/4-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 4 puertas de MERCEDES-BENZ",
+                    "versionName": "Clase e",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/clase_e/berlina/4-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 4 puertas de MERCEDES-BENZ",
+                    "versionName": "Clase s",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/clase_s/berlina/4-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 4 puertas de MERCEDES-BENZ",
+                    "versionName": "Cls",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/cls/berlina/4-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 4 puertas de MERCEDES-BENZ",
+                    "versionName": "Eqe",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/eqe/berlina/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Clase a",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/clase_a/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Eqs",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/eqs/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Mercedes-amg gt",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/mercedes-amg_gt/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos familiares de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Cla",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/cla/familiar/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos familiares de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Clase c",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/clase_c/familiar/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos familiares de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Clase e",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/clase_e/familiar/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Monovolumenes de 4 puertas de MERCEDES-BENZ",
+                    "versionName": "Clase v",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/clase_v/monovolumen/4-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 4 puertas de MERCEDES-BENZ",
+                    "versionName": "Vito",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/vito/monovolumen/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Monovolumenes de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Citan",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/citan/monovolumen/5-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Clase b",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/clase_b/monovolumen/5-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Clase t",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/clase_t/monovolumen/5-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Clase v",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/clase_v/monovolumen/5-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Eqt",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/eqt/monovolumen/5-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Eqv",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/eqv/monovolumen/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Coupés de 2 puertas de MERCEDES-BENZ",
+                    "versionName": "Clase e",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/clase_e/coupe/2-puertas/"
+                },
+                {
+                    "modelName": "Coupés de 2 puertas de MERCEDES-BENZ",
+                    "versionName": "Cle",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/cle/coupe/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Descapotables de 2 puertas de MERCEDES-BENZ",
+                    "versionName": "Clase e",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/clase_e/cabrio/2-puertas/"
+                },
+                {
+                    "modelName": "Descapotables de 2 puertas de MERCEDES-BENZ",
+                    "versionName": "Mercedes-amg sl",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/mercedes-amg_sl/cabrio/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Clase g",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/clase_g/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Eqa",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/eqa/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Eqb",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/eqb/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Eqc",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/eqc/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Eqe suv",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/eqe_suv/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Eqs suv",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/eqs_suv/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Gla",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/gla/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Glb",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/glb/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Glc",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/glc/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Glc coupé",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/glc_coupe/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Gle",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/gle/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Gle coupé",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/gle_coupe/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de MERCEDES-BENZ",
+                    "versionName": "Gls",
+                    "link": "https://www.coches.net/fichas_tecnicas/mercedes-benz/gls/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "MG",
+        "link": "https://www.coches.net/fichas_tecnicas/mg/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de MG",
+                    "versionName": "Mg4",
+                    "link": "https://www.coches.net/fichas_tecnicas/mg/mg4/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos familiares de 5 puertas de MG",
+                    "versionName": "Mg5",
+                    "link": "https://www.coches.net/fichas_tecnicas/mg/mg5/familiar/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de MG",
+                    "versionName": "Ehs",
+                    "link": "https://www.coches.net/fichas_tecnicas/mg/ehs/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de MG",
+                    "versionName": "Hs",
+                    "link": "https://www.coches.net/fichas_tecnicas/mg/hs/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de MG",
+                    "versionName": "Marvel r",
+                    "link": "https://www.coches.net/fichas_tecnicas/mg/marvel_r/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de MG",
+                    "versionName": "Zs",
+                    "link": "https://www.coches.net/fichas_tecnicas/mg/zs/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de MG",
+                    "versionName": "Zs ev",
+                    "link": "https://www.coches.net/fichas_tecnicas/mg/zs_ev/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "MINI",
+        "link": "https://www.coches.net/fichas_tecnicas/mini/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 3 puertas de MINI",
+                    "versionName": "Mini",
+                    "link": "https://www.coches.net/fichas_tecnicas/mini/mini/berlina/3-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de MINI",
+                    "versionName": "Countryman",
+                    "link": "https://www.coches.net/fichas_tecnicas/mini/countryman/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de MINI",
+                    "versionName": "Mini",
+                    "link": "https://www.coches.net/fichas_tecnicas/mini/mini/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos familiares de 5 puertas de MINI",
+                    "versionName": "Clubman",
+                    "link": "https://www.coches.net/fichas_tecnicas/mini/clubman/familiar/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Descapotables de 2 puertas de MINI",
+                    "versionName": "Mini",
+                    "link": "https://www.coches.net/fichas_tecnicas/mini/mini/cabrio/2-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "MITSUBISHI",
+        "link": "https://www.coches.net/fichas_tecnicas/mitsubishi/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de MITSUBISHI",
+                    "versionName": "Colt",
+                    "link": "https://www.coches.net/fichas_tecnicas/mitsubishi/colt/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de MITSUBISHI",
+                    "versionName": "Space star",
+                    "link": "https://www.coches.net/fichas_tecnicas/mitsubishi/space_star/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de MITSUBISHI",
+                    "versionName": "Asx",
+                    "link": "https://www.coches.net/fichas_tecnicas/mitsubishi/asx/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de MITSUBISHI",
+                    "versionName": "Eclipse cross",
+                    "link": "https://www.coches.net/fichas_tecnicas/mitsubishi/eclipse_cross/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de MITSUBISHI",
+                    "versionName": "Outlander",
+                    "link": "https://www.coches.net/fichas_tecnicas/mitsubishi/outlander/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "MW MOTORS",
+        "link": "https://www.coches.net/fichas_tecnicas/mw_motors/",
+        "models": [
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de MW MOTORS",
+                    "versionName": "Spartan",
+                    "link": "https://www.coches.net/fichas_tecnicas/mw_motors/spartan/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "NEXTEM",
+        "link": "https://www.coches.net/fichas_tecnicas/nextem/",
+        "models": [
+            [
+                {
+                    "modelName": "Pick Up de 5 puertas de NEXTEM",
+                    "versionName": "Orca",
+                    "link": "https://www.coches.net/fichas_tecnicas/nextem/orca/pick_up/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "NISSAN",
+        "link": "https://www.coches.net/fichas_tecnicas/nissan/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de NISSAN",
+                    "versionName": "Leaf",
+                    "link": "https://www.coches.net/fichas_tecnicas/nissan/leaf/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Monovolumenes de 4 puertas de NISSAN",
+                    "versionName": "Primastar",
+                    "link": "https://www.coches.net/fichas_tecnicas/nissan/primastar/monovolumen/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Monovolumenes de 5 puertas de NISSAN",
+                    "versionName": "Townstar",
+                    "link": "https://www.coches.net/fichas_tecnicas/nissan/townstar/monovolumen/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de NISSAN",
+                    "versionName": "Ariya",
+                    "link": "https://www.coches.net/fichas_tecnicas/nissan/ariya/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de NISSAN",
+                    "versionName": "Juke",
+                    "link": "https://www.coches.net/fichas_tecnicas/nissan/juke/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de NISSAN",
+                    "versionName": "Qashqai",
+                    "link": "https://www.coches.net/fichas_tecnicas/nissan/qashqai/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de NISSAN",
+                    "versionName": "X-trail",
+                    "link": "https://www.coches.net/fichas_tecnicas/nissan/x-trail/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "OPEL",
+        "link": "https://www.coches.net/fichas_tecnicas/opel/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 3 puertas de OPEL",
+                    "versionName": "Corsa",
+                    "link": "https://www.coches.net/fichas_tecnicas/opel/corsa/berlina/3-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de OPEL",
+                    "versionName": "Astra",
+                    "link": "https://www.coches.net/fichas_tecnicas/opel/astra/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de OPEL",
+                    "versionName": "Astra electric",
+                    "link": "https://www.coches.net/fichas_tecnicas/opel/astra_electric/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de OPEL",
+                    "versionName": "Astra phev",
+                    "link": "https://www.coches.net/fichas_tecnicas/opel/astra_phev/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de OPEL",
+                    "versionName": "Corsa",
+                    "link": "https://www.coches.net/fichas_tecnicas/opel/corsa/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de OPEL",
+                    "versionName": "Corsa electric",
+                    "link": "https://www.coches.net/fichas_tecnicas/opel/corsa_electric/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de OPEL",
+                    "versionName": "Corsa-e",
+                    "link": "https://www.coches.net/fichas_tecnicas/opel/corsa-e/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de OPEL",
+                    "versionName": "Insignia",
+                    "link": "https://www.coches.net/fichas_tecnicas/opel/insignia/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos familiares de 5 puertas de OPEL",
+                    "versionName": "Astra",
+                    "link": "https://www.coches.net/fichas_tecnicas/opel/astra/familiar/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos familiares de 5 puertas de OPEL",
+                    "versionName": "Astra phev",
+                    "link": "https://www.coches.net/fichas_tecnicas/opel/astra_phev/familiar/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos familiares de 5 puertas de OPEL",
+                    "versionName": "Insignia",
+                    "link": "https://www.coches.net/fichas_tecnicas/opel/insignia/familiar/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Monovolumenes de 4 puertas de OPEL",
+                    "versionName": "Combo life",
+                    "link": "https://www.coches.net/fichas_tecnicas/opel/combo_life/monovolumen/4-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 4 puertas de OPEL",
+                    "versionName": "Combo-e life",
+                    "link": "https://www.coches.net/fichas_tecnicas/opel/combo-e_life/monovolumen/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Monovolumenes de 5 puertas de OPEL",
+                    "versionName": "Combo life",
+                    "link": "https://www.coches.net/fichas_tecnicas/opel/combo_life/monovolumen/5-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 5 puertas de OPEL",
+                    "versionName": "Combo-e life",
+                    "link": "https://www.coches.net/fichas_tecnicas/opel/combo-e_life/monovolumen/5-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 5 puertas de OPEL",
+                    "versionName": "Zafira-e life",
+                    "link": "https://www.coches.net/fichas_tecnicas/opel/zafira-e_life/monovolumen/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de OPEL",
+                    "versionName": "Crossland",
+                    "link": "https://www.coches.net/fichas_tecnicas/opel/crossland/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de OPEL",
+                    "versionName": "Grandland",
+                    "link": "https://www.coches.net/fichas_tecnicas/opel/grandland/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de OPEL",
+                    "versionName": "Grandland phev",
+                    "link": "https://www.coches.net/fichas_tecnicas/opel/grandland_phev/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de OPEL",
+                    "versionName": "Mokka",
+                    "link": "https://www.coches.net/fichas_tecnicas/opel/mokka/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de OPEL",
+                    "versionName": "Mokka-e",
+                    "link": "https://www.coches.net/fichas_tecnicas/opel/mokka-e/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "PEUGEOT",
+        "link": "https://www.coches.net/fichas_tecnicas/peugeot/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de PEUGEOT",
+                    "versionName": "208",
+                    "link": "https://www.coches.net/fichas_tecnicas/peugeot/208/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de PEUGEOT",
+                    "versionName": "308",
+                    "link": "https://www.coches.net/fichas_tecnicas/peugeot/308/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de PEUGEOT",
+                    "versionName": "408",
+                    "link": "https://www.coches.net/fichas_tecnicas/peugeot/408/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de PEUGEOT",
+                    "versionName": "508",
+                    "link": "https://www.coches.net/fichas_tecnicas/peugeot/508/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de PEUGEOT",
+                    "versionName": "508 hybrid",
+                    "link": "https://www.coches.net/fichas_tecnicas/peugeot/508_hybrid/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de PEUGEOT",
+                    "versionName": "E-208",
+                    "link": "https://www.coches.net/fichas_tecnicas/peugeot/e-208/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de PEUGEOT",
+                    "versionName": "E-308",
+                    "link": "https://www.coches.net/fichas_tecnicas/peugeot/e-308/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos familiares de 5 puertas de PEUGEOT",
+                    "versionName": "308",
+                    "link": "https://www.coches.net/fichas_tecnicas/peugeot/308/familiar/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos familiares de 5 puertas de PEUGEOT",
+                    "versionName": "508",
+                    "link": "https://www.coches.net/fichas_tecnicas/peugeot/508/familiar/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos familiares de 5 puertas de PEUGEOT",
+                    "versionName": "508 hybrid",
+                    "link": "https://www.coches.net/fichas_tecnicas/peugeot/508_hybrid/familiar/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos familiares de 5 puertas de PEUGEOT",
+                    "versionName": "E-308",
+                    "link": "https://www.coches.net/fichas_tecnicas/peugeot/e-308/familiar/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Monovolumenes de 4 puertas de PEUGEOT",
+                    "versionName": "E-rifter",
+                    "link": "https://www.coches.net/fichas_tecnicas/peugeot/e-rifter/monovolumen/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Monovolumenes de 5 puertas de PEUGEOT",
+                    "versionName": "E-rifter",
+                    "link": "https://www.coches.net/fichas_tecnicas/peugeot/e-rifter/monovolumen/5-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 5 puertas de PEUGEOT",
+                    "versionName": "E-traveller",
+                    "link": "https://www.coches.net/fichas_tecnicas/peugeot/e-traveller/monovolumen/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de PEUGEOT",
+                    "versionName": "2008",
+                    "link": "https://www.coches.net/fichas_tecnicas/peugeot/2008/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de PEUGEOT",
+                    "versionName": "3008 hybrid",
+                    "link": "https://www.coches.net/fichas_tecnicas/peugeot/3008_hybrid/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de PEUGEOT",
+                    "versionName": "5008",
+                    "link": "https://www.coches.net/fichas_tecnicas/peugeot/5008/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de PEUGEOT",
+                    "versionName": "5008 hybrid",
+                    "link": "https://www.coches.net/fichas_tecnicas/peugeot/5008_hybrid/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de PEUGEOT",
+                    "versionName": "E-2008",
+                    "link": "https://www.coches.net/fichas_tecnicas/peugeot/e-2008/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de PEUGEOT",
+                    "versionName": "E-3008",
+                    "link": "https://www.coches.net/fichas_tecnicas/peugeot/e-3008/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "POLESTAR",
+        "link": "https://www.coches.net/fichas_tecnicas/polestar/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de POLESTAR",
+                    "versionName": "2",
+                    "link": "https://www.coches.net/fichas_tecnicas/polestar/2/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de POLESTAR",
+                    "versionName": "3",
+                    "link": "https://www.coches.net/fichas_tecnicas/polestar/3/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de POLESTAR",
+                    "versionName": "4",
+                    "link": "https://www.coches.net/fichas_tecnicas/polestar/4/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "PORSCHE",
+        "link": "https://www.coches.net/fichas_tecnicas/porsche/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 4 puertas de PORSCHE",
+                    "versionName": "Taycan",
+                    "link": "https://www.coches.net/fichas_tecnicas/porsche/taycan/berlina/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de PORSCHE",
+                    "versionName": "Panamera",
+                    "link": "https://www.coches.net/fichas_tecnicas/porsche/panamera/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos familiares de 5 puertas de PORSCHE",
+                    "versionName": "Panamera",
+                    "link": "https://www.coches.net/fichas_tecnicas/porsche/panamera/familiar/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos familiares de 5 puertas de PORSCHE",
+                    "versionName": "Taycan",
+                    "link": "https://www.coches.net/fichas_tecnicas/porsche/taycan/familiar/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Coupés de 2 puertas de PORSCHE",
+                    "versionName": "911",
+                    "link": "https://www.coches.net/fichas_tecnicas/porsche/911/coupe/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Coupés de 3 puertas de PORSCHE",
+                    "versionName": "718",
+                    "link": "https://www.coches.net/fichas_tecnicas/porsche/718/coupe/3-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Descapotables de 2 puertas de PORSCHE",
+                    "versionName": "718",
+                    "link": "https://www.coches.net/fichas_tecnicas/porsche/718/cabrio/2-puertas/"
+                },
+                {
+                    "modelName": "Descapotables de 2 puertas de PORSCHE",
+                    "versionName": "911",
+                    "link": "https://www.coches.net/fichas_tecnicas/porsche/911/cabrio/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de PORSCHE",
+                    "versionName": "Cayenne",
+                    "link": "https://www.coches.net/fichas_tecnicas/porsche/cayenne/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de PORSCHE",
+                    "versionName": "Cayenne coupé",
+                    "link": "https://www.coches.net/fichas_tecnicas/porsche/cayenne_coupe/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de PORSCHE",
+                    "versionName": "Macan",
+                    "link": "https://www.coches.net/fichas_tecnicas/porsche/macan/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "RENAULT",
+        "link": "https://www.coches.net/fichas_tecnicas/renault/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de RENAULT",
+                    "versionName": "Clio",
+                    "link": "https://www.coches.net/fichas_tecnicas/renault/clio/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de RENAULT",
+                    "versionName": "Mégane",
+                    "link": "https://www.coches.net/fichas_tecnicas/renault/megane/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de RENAULT",
+                    "versionName": "Megane e-tech",
+                    "link": "https://www.coches.net/fichas_tecnicas/renault/megane_e-tech/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de RENAULT",
+                    "versionName": "Twingo",
+                    "link": "https://www.coches.net/fichas_tecnicas/renault/twingo/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de RENAULT",
+                    "versionName": "Zoe",
+                    "link": "https://www.coches.net/fichas_tecnicas/renault/zoe/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos familiares de 5 puertas de RENAULT",
+                    "versionName": "Mégane",
+                    "link": "https://www.coches.net/fichas_tecnicas/renault/megane/familiar/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Monovolumenes de 4 puertas de RENAULT",
+                    "versionName": "Trafic",
+                    "link": "https://www.coches.net/fichas_tecnicas/renault/trafic/monovolumen/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Monovolumenes de 5 puertas de RENAULT",
+                    "versionName": "Espace",
+                    "link": "https://www.coches.net/fichas_tecnicas/renault/espace/monovolumen/5-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 5 puertas de RENAULT",
+                    "versionName": "Grand scénic",
+                    "link": "https://www.coches.net/fichas_tecnicas/renault/grand_scenic/monovolumen/5-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 5 puertas de RENAULT",
+                    "versionName": "Kangoo combi",
+                    "link": "https://www.coches.net/fichas_tecnicas/renault/kangoo_combi/monovolumen/5-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 5 puertas de RENAULT",
+                    "versionName": "Trafic",
+                    "link": "https://www.coches.net/fichas_tecnicas/renault/trafic/monovolumen/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de RENAULT",
+                    "versionName": "Arkana",
+                    "link": "https://www.coches.net/fichas_tecnicas/renault/arkana/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de RENAULT",
+                    "versionName": "Austral",
+                    "link": "https://www.coches.net/fichas_tecnicas/renault/austral/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de RENAULT",
+                    "versionName": "Captur",
+                    "link": "https://www.coches.net/fichas_tecnicas/renault/captur/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de RENAULT",
+                    "versionName": "Espace",
+                    "link": "https://www.coches.net/fichas_tecnicas/renault/espace/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de RENAULT",
+                    "versionName": "Koleos",
+                    "link": "https://www.coches.net/fichas_tecnicas/renault/koleos/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "SEAT",
+        "link": "https://www.coches.net/fichas_tecnicas/seat/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de SEAT",
+                    "versionName": "Ibiza",
+                    "link": "https://www.coches.net/fichas_tecnicas/seat/ibiza/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de SEAT",
+                    "versionName": "León",
+                    "link": "https://www.coches.net/fichas_tecnicas/seat/leon/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos familiares de 5 puertas de SEAT",
+                    "versionName": "León",
+                    "link": "https://www.coches.net/fichas_tecnicas/seat/leon/familiar/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de SEAT",
+                    "versionName": "Arona",
+                    "link": "https://www.coches.net/fichas_tecnicas/seat/arona/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de SEAT",
+                    "versionName": "Ateca",
+                    "link": "https://www.coches.net/fichas_tecnicas/seat/ateca/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de SEAT",
+                    "versionName": "Tarraco",
+                    "link": "https://www.coches.net/fichas_tecnicas/seat/tarraco/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "SKODA",
+        "link": "https://www.coches.net/fichas_tecnicas/skoda/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de SKODA",
+                    "versionName": "Fabia",
+                    "link": "https://www.coches.net/fichas_tecnicas/skoda/fabia/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de SKODA",
+                    "versionName": "Octavia",
+                    "link": "https://www.coches.net/fichas_tecnicas/skoda/octavia/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de SKODA",
+                    "versionName": "Scala",
+                    "link": "https://www.coches.net/fichas_tecnicas/skoda/scala/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de SKODA",
+                    "versionName": "Superb",
+                    "link": "https://www.coches.net/fichas_tecnicas/skoda/superb/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos familiares de 5 puertas de SKODA",
+                    "versionName": "Octavia",
+                    "link": "https://www.coches.net/fichas_tecnicas/skoda/octavia/familiar/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos familiares de 5 puertas de SKODA",
+                    "versionName": "Superb",
+                    "link": "https://www.coches.net/fichas_tecnicas/skoda/superb/familiar/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de SKODA",
+                    "versionName": "Enyaq",
+                    "link": "https://www.coches.net/fichas_tecnicas/skoda/enyaq/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de SKODA",
+                    "versionName": "Enyaq coupe",
+                    "link": "https://www.coches.net/fichas_tecnicas/skoda/enyaq_coupe/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de SKODA",
+                    "versionName": "Kamiq",
+                    "link": "https://www.coches.net/fichas_tecnicas/skoda/kamiq/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de SKODA",
+                    "versionName": "Karoq",
+                    "link": "https://www.coches.net/fichas_tecnicas/skoda/karoq/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de SKODA",
+                    "versionName": "Kodiaq",
+                    "link": "https://www.coches.net/fichas_tecnicas/skoda/kodiaq/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "SMART",
+        "link": "https://www.coches.net/fichas_tecnicas/smart/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 3 puertas de SMART",
+                    "versionName": "Fortwo",
+                    "link": "https://www.coches.net/fichas_tecnicas/smart/fortwo/berlina/3-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Descapotables de 2 puertas de SMART",
+                    "versionName": "Fortwo",
+                    "link": "https://www.coches.net/fichas_tecnicas/smart/fortwo/cabrio/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de SMART",
+                    "versionName": "#1",
+                    "link": "https://www.coches.net/fichas_tecnicas/smart/1/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "SSANGYONG",
+        "link": "https://www.coches.net/fichas_tecnicas/ssangyong/",
+        "models": [
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de SSANGYONG",
+                    "versionName": "Korando",
+                    "link": "https://www.coches.net/fichas_tecnicas/ssangyong/korando/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de SSANGYONG",
+                    "versionName": "Rexton",
+                    "link": "https://www.coches.net/fichas_tecnicas/ssangyong/rexton/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de SSANGYONG",
+                    "versionName": "Tivoli",
+                    "link": "https://www.coches.net/fichas_tecnicas/ssangyong/tivoli/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de SSANGYONG",
+                    "versionName": "Tivoli grand",
+                    "link": "https://www.coches.net/fichas_tecnicas/ssangyong/tivoli_grand/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de SSANGYONG",
+                    "versionName": "Torres",
+                    "link": "https://www.coches.net/fichas_tecnicas/ssangyong/torres/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "SUBARU",
+        "link": "https://www.coches.net/fichas_tecnicas/subaru/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de SUBARU",
+                    "versionName": "Impreza",
+                    "link": "https://www.coches.net/fichas_tecnicas/subaru/impreza/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos familiares de 5 puertas de SUBARU",
+                    "versionName": "Outback",
+                    "link": "https://www.coches.net/fichas_tecnicas/subaru/outback/familiar/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Coupés de 2 puertas de SUBARU",
+                    "versionName": "Brz",
+                    "link": "https://www.coches.net/fichas_tecnicas/subaru/brz/coupe/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de SUBARU",
+                    "versionName": "Forester",
+                    "link": "https://www.coches.net/fichas_tecnicas/subaru/forester/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de SUBARU",
+                    "versionName": "Solterra",
+                    "link": "https://www.coches.net/fichas_tecnicas/subaru/solterra/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de SUBARU",
+                    "versionName": "Xv",
+                    "link": "https://www.coches.net/fichas_tecnicas/subaru/xv/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "SUZUKI",
+        "link": "https://www.coches.net/fichas_tecnicas/suzuki/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de SUZUKI",
+                    "versionName": "Ignis",
+                    "link": "https://www.coches.net/fichas_tecnicas/suzuki/ignis/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de SUZUKI",
+                    "versionName": "Swift",
+                    "link": "https://www.coches.net/fichas_tecnicas/suzuki/swift/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos familiares de 5 puertas de SUZUKI",
+                    "versionName": "Swace",
+                    "link": "https://www.coches.net/fichas_tecnicas/suzuki/swace/familiar/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 3 puertas de SUZUKI",
+                    "versionName": "Jimny",
+                    "link": "https://www.coches.net/fichas_tecnicas/suzuki/jimny/4x4/3-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de SUZUKI",
+                    "versionName": "Across",
+                    "link": "https://www.coches.net/fichas_tecnicas/suzuki/across/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de SUZUKI",
+                    "versionName": "Grand vitara",
+                    "link": "https://www.coches.net/fichas_tecnicas/suzuki/grand_vitara/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de SUZUKI",
+                    "versionName": "Scross",
+                    "link": "https://www.coches.net/fichas_tecnicas/suzuki/scross/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de SUZUKI",
+                    "versionName": "Vitara",
+                    "link": "https://www.coches.net/fichas_tecnicas/suzuki/vitara/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "SWM",
+        "link": "https://www.coches.net/fichas_tecnicas/swm/",
+        "models": [
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de SWM",
+                    "versionName": "G01",
+                    "link": "https://www.coches.net/fichas_tecnicas/swm/g01/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de SWM",
+                    "versionName": "G01f",
+                    "link": "https://www.coches.net/fichas_tecnicas/swm/g01f/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "TATA",
+        "link": "https://www.coches.net/fichas_tecnicas/tata/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de TATA",
+                    "versionName": "Vista",
+                    "link": "https://www.coches.net/fichas_tecnicas/tata/vista/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Monovolumenes de 5 puertas de TATA",
+                    "versionName": "Aria",
+                    "link": "https://www.coches.net/fichas_tecnicas/tata/aria/monovolumen/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "TESLA",
+        "link": "https://www.coches.net/fichas_tecnicas/tesla/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 4 puertas de TESLA",
+                    "versionName": "Model 3",
+                    "link": "https://www.coches.net/fichas_tecnicas/tesla/model_3/berlina/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de TESLA",
+                    "versionName": "Model s",
+                    "link": "https://www.coches.net/fichas_tecnicas/tesla/model_s/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de TESLA",
+                    "versionName": "Model x",
+                    "link": "https://www.coches.net/fichas_tecnicas/tesla/model_x/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de TESLA",
+                    "versionName": "Model y",
+                    "link": "https://www.coches.net/fichas_tecnicas/tesla/model_y/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "TOYOTA",
+        "link": "https://www.coches.net/fichas_tecnicas/toyota/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 3 puertas de TOYOTA",
+                    "versionName": "Gr yaris",
+                    "link": "https://www.coches.net/fichas_tecnicas/toyota/gr_yaris/berlina/3-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos de 4 puertas de TOYOTA",
+                    "versionName": "Corolla",
+                    "link": "https://www.coches.net/fichas_tecnicas/toyota/corolla/berlina/4-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 4 puertas de TOYOTA",
+                    "versionName": "Mirai",
+                    "link": "https://www.coches.net/fichas_tecnicas/toyota/mirai/berlina/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de TOYOTA",
+                    "versionName": "C-hr",
+                    "link": "https://www.coches.net/fichas_tecnicas/toyota/c-hr/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de TOYOTA",
+                    "versionName": "Corolla",
+                    "link": "https://www.coches.net/fichas_tecnicas/toyota/corolla/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de TOYOTA",
+                    "versionName": "Yaris",
+                    "link": "https://www.coches.net/fichas_tecnicas/toyota/yaris/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos familiares de 5 puertas de TOYOTA",
+                    "versionName": "Corolla",
+                    "link": "https://www.coches.net/fichas_tecnicas/toyota/corolla/familiar/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Monovolumenes de 5 puertas de TOYOTA",
+                    "versionName": "Proace city verso",
+                    "link": "https://www.coches.net/fichas_tecnicas/toyota/proace_city_verso/monovolumen/5-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 5 puertas de TOYOTA",
+                    "versionName": "Proace verso",
+                    "link": "https://www.coches.net/fichas_tecnicas/toyota/proace_verso/monovolumen/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Coupés de 2 puertas de TOYOTA",
+                    "versionName": "Gr supra",
+                    "link": "https://www.coches.net/fichas_tecnicas/toyota/gr_supra/coupe/2-puertas/"
+                },
+                {
+                    "modelName": "Coupés de 2 puertas de TOYOTA",
+                    "versionName": "Gr86",
+                    "link": "https://www.coches.net/fichas_tecnicas/toyota/gr86/coupe/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 3 puertas de TOYOTA",
+                    "versionName": "Land cruiser",
+                    "link": "https://www.coches.net/fichas_tecnicas/toyota/land_cruiser/4x4/3-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de TOYOTA",
+                    "versionName": "Aygo x cross",
+                    "link": "https://www.coches.net/fichas_tecnicas/toyota/aygo_x_cross/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de TOYOTA",
+                    "versionName": "Bz4x",
+                    "link": "https://www.coches.net/fichas_tecnicas/toyota/bz4x/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de TOYOTA",
+                    "versionName": "Corolla cross",
+                    "link": "https://www.coches.net/fichas_tecnicas/toyota/corolla_cross/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de TOYOTA",
+                    "versionName": "Highlander",
+                    "link": "https://www.coches.net/fichas_tecnicas/toyota/highlander/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de TOYOTA",
+                    "versionName": "Land cruiser",
+                    "link": "https://www.coches.net/fichas_tecnicas/toyota/land_cruiser/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de TOYOTA",
+                    "versionName": "Rav4",
+                    "link": "https://www.coches.net/fichas_tecnicas/toyota/rav4/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de TOYOTA",
+                    "versionName": "Yaris cross",
+                    "link": "https://www.coches.net/fichas_tecnicas/toyota/yaris_cross/4x4/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Pick Up de 2 puertas de TOYOTA",
+                    "versionName": "Hilux",
+                    "link": "https://www.coches.net/fichas_tecnicas/toyota/hilux/pick_up/2-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "VOLKSWAGEN",
+        "link": "https://www.coches.net/fichas_tecnicas/volkswagen/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de VOLKSWAGEN",
+                    "versionName": "Arteon",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/arteon/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de VOLKSWAGEN",
+                    "versionName": "Golf",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/golf/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de VOLKSWAGEN",
+                    "versionName": "Id.3",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/id3/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de VOLKSWAGEN",
+                    "versionName": "Id.7",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/id7/berlina/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 5 puertas de VOLKSWAGEN",
+                    "versionName": "Polo",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/polo/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos familiares de 5 puertas de VOLKSWAGEN",
+                    "versionName": "Arteon",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/arteon/familiar/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos familiares de 5 puertas de VOLKSWAGEN",
+                    "versionName": "Golf",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/golf/familiar/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos familiares de 5 puertas de VOLKSWAGEN",
+                    "versionName": "Passat",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/passat/familiar/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Monovolumenes de 4 puertas de VOLKSWAGEN",
+                    "versionName": "California",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/california/monovolumen/4-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 4 puertas de VOLKSWAGEN",
+                    "versionName": "Caravelle",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/caravelle/monovolumen/4-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 4 puertas de VOLKSWAGEN",
+                    "versionName": "Grand california",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/grand_california/monovolumen/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Monovolumenes de 5 puertas de VOLKSWAGEN",
+                    "versionName": "Caddy",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/caddy/monovolumen/5-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 5 puertas de VOLKSWAGEN",
+                    "versionName": "California",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/california/monovolumen/5-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 5 puertas de VOLKSWAGEN",
+                    "versionName": "Caravelle",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/caravelle/monovolumen/5-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 5 puertas de VOLKSWAGEN",
+                    "versionName": "Golf sportsvan",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/golf_sportsvan/monovolumen/5-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 5 puertas de VOLKSWAGEN",
+                    "versionName": "Id. buzz",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/id_buzz/monovolumen/5-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 5 puertas de VOLKSWAGEN",
+                    "versionName": "Multivan",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/multivan/monovolumen/5-puertas/"
+                },
+                {
+                    "modelName": "Monovolumenes de 5 puertas de VOLKSWAGEN",
+                    "versionName": "Touran",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/touran/monovolumen/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 2 puertas de VOLKSWAGEN",
+                    "versionName": "T-roc",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/t-roc/4x4/2-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de VOLKSWAGEN",
+                    "versionName": "Id.4",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/id4/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de VOLKSWAGEN",
+                    "versionName": "Id.5",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/id5/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de VOLKSWAGEN",
+                    "versionName": "Taigo",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/taigo/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de VOLKSWAGEN",
+                    "versionName": "T-cross",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/t-cross/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de VOLKSWAGEN",
+                    "versionName": "Tiguan",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/tiguan/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de VOLKSWAGEN",
+                    "versionName": "Tiguan allspace",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/tiguan_allspace/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de VOLKSWAGEN",
+                    "versionName": "Touareg",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/touareg/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de VOLKSWAGEN",
+                    "versionName": "T-roc",
+                    "link": "https://www.coches.net/fichas_tecnicas/volkswagen/t-roc/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "VOLVO",
+        "link": "https://www.coches.net/fichas_tecnicas/volvo/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 4 puertas de VOLVO",
+                    "versionName": "S60",
+                    "link": "https://www.coches.net/fichas_tecnicas/volvo/s60/berlina/4-puertas/"
+                },
+                {
+                    "modelName": "Turismos de 4 puertas de VOLVO",
+                    "versionName": "S90",
+                    "link": "https://www.coches.net/fichas_tecnicas/volvo/s90/berlina/4-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos de 5 puertas de VOLVO",
+                    "versionName": "V40",
+                    "link": "https://www.coches.net/fichas_tecnicas/volvo/v40/berlina/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "Turismos familiares de 5 puertas de VOLVO",
+                    "versionName": "V60",
+                    "link": "https://www.coches.net/fichas_tecnicas/volvo/v60/familiar/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos familiares de 5 puertas de VOLVO",
+                    "versionName": "V60 cross country",
+                    "link": "https://www.coches.net/fichas_tecnicas/volvo/v60_cross_country/familiar/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos familiares de 5 puertas de VOLVO",
+                    "versionName": "V90",
+                    "link": "https://www.coches.net/fichas_tecnicas/volvo/v90/familiar/5-puertas/"
+                },
+                {
+                    "modelName": "Turismos familiares de 5 puertas de VOLVO",
+                    "versionName": "V90 cross country",
+                    "link": "https://www.coches.net/fichas_tecnicas/volvo/v90_cross_country/familiar/5-puertas/"
+                }
+            ],
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de VOLVO",
+                    "versionName": "C40",
+                    "link": "https://www.coches.net/fichas_tecnicas/volvo/c40/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de VOLVO",
+                    "versionName": "Ex30",
+                    "link": "https://www.coches.net/fichas_tecnicas/volvo/ex30/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de VOLVO",
+                    "versionName": "Ex90",
+                    "link": "https://www.coches.net/fichas_tecnicas/volvo/ex90/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de VOLVO",
+                    "versionName": "Xc40",
+                    "link": "https://www.coches.net/fichas_tecnicas/volvo/xc40/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de VOLVO",
+                    "versionName": "Xc60",
+                    "link": "https://www.coches.net/fichas_tecnicas/volvo/xc60/4x4/5-puertas/"
+                },
+                {
+                    "modelName": "4x4 de 5 puertas de VOLVO",
+                    "versionName": "Xc90",
+                    "link": "https://www.coches.net/fichas_tecnicas/volvo/xc90/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "YUDO",
+        "link": "https://www.coches.net/fichas_tecnicas/yudo/",
+        "models": [
+            [
+                {
+                    "modelName": "4x4 de 5 puertas de YUDO",
+                    "versionName": "3",
+                    "link": "https://www.coches.net/fichas_tecnicas/yudo/3/4x4/5-puertas/"
+                }
+            ]
+        ]
+    },
+    {
+        "brandName": "ZHIDOU",
+        "link": "https://www.coches.net/fichas_tecnicas/zhidou/",
+        "models": [
+            [
+                {
+                    "modelName": "Turismos de 3 puertas de ZHIDOU",
+                    "versionName": "D2s",
+                    "link": "https://www.coches.net/fichas_tecnicas/zhidou/d2s/berlina/3-puertas/"
+                }
+            ]
+        ]
+    }
+]
