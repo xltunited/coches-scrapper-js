@@ -1,0 +1,1 @@
+var data=["https://www.coches.net/fichas_tecnicas/yudo/3/4x4/5-puertas/elite_95cv_electrico____hibrido/110414/839515020231101/"]

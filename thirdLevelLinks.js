@@ -17,12 +17,12 @@ import AdblockerPlugin from 'puppeteer-extra-plugin-adblocker';
 puppeteer.use(AdblockerPlugin({ blockTrackers: true }))
 
 function getRandomInt(max) {
-  return Math.floor(Math.random() * max);
+    return Math.floor(Math.random() * max);
 }
 
 const delay = (milliseconds) => new Promise((resolve) => setTimeout(resolve, milliseconds));
 
-function randomTime(){
+function randomTime() {
 
     return Math.floor(Math.random() * 4000) + 4000;
 
@@ -154,40 +154,40 @@ const cookies = [
         "value": "1",
         "id": 7
     }
-    ];
+];
 
 const getVersions = async () => {
     // Start a Puppeteer session with:
     // - a visible browser (`headless: false` - easier to debug because you'll see the browser in action)
     // - no default viewport (`defaultViewport: null` - website page will in full width and height)
     const browser = await puppeteer.launch({
-      headless: false,
-      defaultViewport: null,
+        headless: false,
+        defaultViewport: null,
     });
-  
+
     // Open a new page
     const page = await browser.newPage();
-  
+
     // Loop through version links
 
-    for( let brand of brands) {
+    for (let brand of brands) {
 
         let models = brand.models;
-    
-        for(let model of models) {
-    
-            for(let version of model){
 
-                if(!("versions" in version)){
+        for (let model of models) {
+
+            for (let version of model) {
+
+                if (!("versions" in version)) {
 
                     try {
                         await delay(randomTime());
 
                         // Set custom user agent
-                        await page.setUserAgent(customUA[getRandomInt(customUA.length-1)]);
-                    
+                        await page.setUserAgent(customUA[getRandomInt(customUA.length - 1)]);
+
                         // On this new page:
-                    
+
                         await page.setCookie(...cookies);
 
                         await page.setExtraHTTPHeaders(extraHeaders);
@@ -202,42 +202,42 @@ const getVersions = async () => {
 
                         const versions = await page.evaluate(() => {
 
-                            
+
                             const versionList = document.querySelector("tbody");
 
                             const versionRows = Array.from(versionList.querySelectorAll("tr"));
-                        
+
                             let versionArray = [];
-                        
-                            versionRows.forEach(function(row, index) {
-                        
+
+                            versionRows.forEach(function (row, index) {
+
                                 const columns = Array.from(row.querySelectorAll(".react-AtomTable-cell"));
-                        
+
                                 const year = columns[0].querySelector(".mt-ListVersions--withIcon").innerText;
-                        
+
                                 const version = columns[1].querySelector("a").innerText;
-                        
+
                                 const versionLink = columns[1].querySelector("a").href;
-                        
+
                                 const fuelType = columns[2].querySelector(".mt-ListVersions--withIcon").innerText;
-                        
+
                                 const power = columns[3].querySelector(".mt-ListVersions--withIcon").innerText;
-                        
+
                                 const price = columns[4].querySelector("strong").innerText;
-                        
-                                versionArray.push({year, version, versionLink, fuelType, power, price});
-                        
+
+                                versionArray.push({ year, version, versionLink, fuelType, power, price });
+
                             });
-                        
+
                             return versionArray;
-                                
+
                         });
 
                         version.versions = versions;
 
                         let updatedObject = JSON.stringify(brands);
-  
-                        fs.writeFile('allBrandLinks.json', updatedObject, 'utf8', function(err) {
+
+                        fs.writeFile('allBrandLinks.json', updatedObject, 'utf8', function (err) {
                             if (err) throw err;
                             console.log('complete');
                         });
@@ -250,18 +250,18 @@ const getVersions = async () => {
                 }
 
             }
-    
+
         }
-    
+
     }
 
     let jsonBrands = JSON.stringify(brands);
-  
-    fs.writeFile('allBrandLinks.json', jsonBrands, 'utf8', function(err) {
+
+    fs.writeFile('allBrandLinks.json', jsonBrands, 'utf8', function (err) {
         if (err) throw err;
         console.log('complete');
     });
-  
+
 };
-    
+
 getVersions();

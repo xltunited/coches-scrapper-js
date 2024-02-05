@@ -5,10 +5,10 @@ import fs from 'fs';
 process.env["NODE_TLS_REJECT_UNAUTHORIZED"] = 0;
 
 async function scrapeSite() {
-	const url = `https://www.coches.net/fichas_tecnicas/`;
+    const url = `https://www.coches.net/fichas_tecnicas/`;
     const root = `https://www.coches.net`;
 
-    const config = { 
+    const config = {
         "headers": {
             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
             "Accept-Encoding": "gzip, deflate, br",
@@ -24,13 +24,13 @@ async function scrapeSite() {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "X-Amzn-Trace-Id": "Root=1-65b0f66d-55771bd90ecfaa6d1a88f65e"
         }
-    }; 
+    };
 
-	const { data } = await axios.get(url, config);
+    const { data } = await axios.get(url, config);
 
     console.log(data);
 
-    const $ = cheerio.load(data); 
+    const $ = cheerio.load(data);
 
 
     const links = [];
@@ -42,25 +42,25 @@ async function scrapeSite() {
         const linkElement = $(element);
 
         const brand = linkElement.text();
-        const link  = root + linkElement.attr("href");
+        const link = root + linkElement.attr("href");
 
-        links.push({"brand" : brand, "link": link});
+        links.push({ "brand": brand, "link": link });
 
     });
 
     let jsonBrands = JSON.stringify(links);
 
-   
-    fs.writeFile('allBrandLinks.json', jsonBrands, 'utf8', function(err) {
+
+    fs.writeFile('allBrandLinks.json', jsonBrands, 'utf8', function (err) {
         if (err) throw err;
         console.log('complete');
     });
 
     console.log(links);
 
-	return links;
+    return links;
 }
 
 scrapeSite().then(result => {
-	console.log(result);
+    console.log(result);
 }).catch(err => console.log(err));

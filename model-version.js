@@ -17,12 +17,12 @@ import AdblockerPlugin from 'puppeteer-extra-plugin-adblocker';
 puppeteer.use(AdblockerPlugin({ blockTrackers: true }))
 
 function getRandomInt(max) {
-  return Math.floor(Math.random() * max);
+    return Math.floor(Math.random() * max);
 }
 
 const delay = (milliseconds) => new Promise((resolve) => setTimeout(resolve, milliseconds));
 
-function randomTime(){
+function randomTime() {
 
     return Math.floor(Math.random() * 3000) + 2000;
 
@@ -36,7 +36,7 @@ const customUA = [
     'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36',
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15',
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 13_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15'
-  ];
+];
 
 // Set Cookies
 
@@ -179,26 +179,26 @@ const cookies = [
         "value": "1",
         "id": 10
     }
-    ];
+];
 
 const getModels = async () => {
     // Start a Puppeteer session with:
     // - a visible browser (`headless: false` - easier to debug because you'll see the browser in action)
     // - no default viewport (`defaultViewport: null` - website page will in full width and height)
     const browser = await puppeteer.launch({
-      headless: false,
-      defaultViewport: null,
+        headless: false,
+        defaultViewport: null,
     });
-  
+
     // Open a new page
     const page = await browser.newPage();
-  
-  
+
+
     // Set custom user agent
-    await page.setUserAgent(customUA[getRandomInt(customUA.length-1)]);
-  
+    await page.setUserAgent(customUA[getRandomInt(customUA.length - 1)]);
+
     // On this new page:
-  
+
     await page.setCookie(...cookies);
 
     await page.setExtraHTTPHeaders({
@@ -229,18 +229,18 @@ const getModels = async () => {
     // await page.click("#didomi-notice-agree-button");
 
     // await delay(2000);
-  
+
     // Loop through brand links
-    for( let brand of brands) {
-        
-        if(!("models" in brand)){
+    for (let brand of brands) {
+
+        if (!("models" in brand)) {
             try {
 
                 // Set custom user agent again to avoid detection
                 // await page.setUserAgent(customUA[getRandomInt(customUA.length-1)]);
-    
+
                 await delay(randomTime());
-    
+
                 await page.setExtraHTTPHeaders({
                     // ':authority': 'www.coches.net',
                     // ':method': 'GET',
@@ -257,86 +257,86 @@ const getModels = async () => {
                     'sec-fetch-user': '?1',
                     'upgrade-insecure-requests': '1'
                 })
-    
-                await page.setUserAgent(customUA[getRandomInt(customUA.length-1)]);
-    
+
+                await page.setUserAgent(customUA[getRandomInt(customUA.length - 1)]);
+
                 await page.setCookie(...cookies);
-            
-                
+
+
                 await page.goto(brand.link, {
                     waitUntil: "domcontentloaded",
                     timeout: 0
                 });
-          
+
                 const data = await page.evaluate(() => {
-                  
+
                     const container = document.querySelector(".mt-LayoutBasicContainer");
-    
+
                     const sections = Array.from(container.querySelectorAll("section"));
-    
+
                     let modelsList = [];
-    
+
                     sections.splice(sections.length - 2);
-    
-                    sections.forEach(function(element, index) {
-    
+
+                    sections.forEach(function (element, index) {
+
                         // section title contains car description
                         const modelName = element.querySelector(".mt-TitleBasic-titleWrapper.mt-TitleBasic-titleWrapper--black.mt-TitleBasic-titleWrapper--left").innerText;
-    
+
                         // get car cards
                         const models = element.querySelectorAll(".mt-ListModels-item");
-    
+
                         const modelsObject = Array.from(models).map((model) => {
-                            
+
                             // 
                             const versionName = model.querySelector(".mt-CardModelContent-description").innerText;
                             const link = model.querySelector("a.mt-CardModel").href;
-                    
+
                             return { modelName, versionName, link };
-                    
+
                         });
-    
+
                         modelsList.push(modelsObject);
-    
+
                     });
-    
+
                     return modelsList;
-    
+
                 });
-    
+
                 brand.models = data;
-    
+
                 let jsonBrands = JSON.stringify(brands);
-      
-                fs.writeFile('allBrandLinks.json', jsonBrands, 'utf8', function(err) {
+
+                fs.writeFile('allBrandLinks.json', jsonBrands, 'utf8', function (err) {
                     if (err) throw err;
                     console.log('complete');
                 });
 
-                fs.readFile('allBrandLinks-backup.json', function(){
+                fs.readFile('allBrandLinks-backup.json', function () {
 
-                    
+
 
                 });
-          
+
                 console.log(data);
-    
+
             } catch (err) {
                 console.error(err);
             }
 
         }
-        
-        
+
+
     }
 
     let jsonBrands = JSON.stringify(brands);
-  
-    fs.writeFile('allBrandLinks.json', jsonBrands, 'utf8', function(err) {
+
+    fs.writeFile('allBrandLinks.json', jsonBrands, 'utf8', function (err) {
         if (err) throw err;
         console.log('complete');
     });
-  
+
 };
-    
+
 getModels();
