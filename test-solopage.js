@@ -1,6 +1,8 @@
+// Get links to traverse per brand
+import brands from './allBrandLinks.json' assert { type: "json" };
+
 // To write to file at the end
 import fs from 'fs';
-
 // import puppeteer from "puppeteer";
 import puppeteer from 'puppeteer-extra';
 
@@ -208,29 +210,44 @@ const getBrands = async () => {
 
   // - open the "https://www.coches.net/fichas_tecnicas/" website
   // - wait until the dom content is loaded (HTML is ready)
-  await page.goto("https://www.coches.net/fichas_tecnicas/", {
+  await page.goto("https://www.coches.net/fichas_tecnicas/abarth/500/berlina/3-puertas/", {
     waitUntil: "domcontentloaded",
   });
 
-  await page.waitForSelector("#didomi-notice-agree-button")
 
-  await page.click("#didomi-notice-agree-button");
+  const versions = await page.evaluate(() => {
 
-  const brands = await page.evaluate(() => {
-  // Fetch the first element with class "quote"
-    const brandList = document.querySelectorAll("section.mt-SharedSectionWrapper.mt-SharedSectionWrapper--hasBackground:nth-of-type(2) a");
+    const versionList = document.querySelector("tbody");
 
-      return Array.from(brandList).map((brand) => {
-        // Fetch the sub-elements from the previously fetched quote element
-        // Get the displayed text and return it (`.innerText`)
-        const brandName = brand.innerText;
-        const link = brand.href;
+    const versionRows = Array.from(versionList.querySelectorAll("tr"));
 
-        return { brandName, link };
+    let versionArray = [];
 
-      });
+    versionRows.forEach(function(row, index) {
+
+        const columns = Array.from(row.querySelectorAll(".react-AtomTable-cell"));
+
+        const year = columns[0].querySelector(".mt-ListVersions--withIcon").innerText;
+
+        const version = columns[1].querySelector("a").innerText;
+
+        const versionLink = columns[1].querySelector("a").href;
+
+        const fuelType = columns[2].querySelector(".mt-ListVersions--withIcon").innerText;
+
+        const power = columns[3].querySelector(".mt-ListVersions--withIcon").innerText;
+
+        const price = columns[4].querySelector("strong").innerText;
+
+        versionArray.push({year, version, versionLink, fuelType, power, price});
 
     });
+
+    return versionArray;
+
+  });
+
+  brands[0].models[0][0].versions = versions;
 
     let jsonBrands = JSON.stringify(brands);
 

@@ -312,10 +312,16 @@ const getModels = async () => {
                     if (err) throw err;
                     console.log('complete');
                 });
+
+                fs.readFile('allBrandLinks-backup.json', function(){
+
+                    
+
+                });
           
                 console.log(data);
     
-              } catch (err) {
+            } catch (err) {
                 console.error(err);
             }
 
